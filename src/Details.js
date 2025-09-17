@@ -62,7 +62,7 @@ export const personalDetails = {
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/md-azizul-arif-409548112/",
-  github: "https://www.github.com/",
+  github: "https://github.com/Azizul109",
   gitlab: "https://gitlab.com/azizularif420",
 };
 
